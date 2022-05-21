@@ -12,7 +12,13 @@ This project captures the key features of RESTful API following the REST archite
 
 The project uses models and resources and SQLALCHEMY is used as a database. POSTMAN is used as teh API testing tool for the endpoints mentioned below.
 
+CRUD oprations of REST RESTful API:
+
+![image](https://user-images.githubusercontent.com/47078856/169638771-913e4a59-9499-4bb5-bed4-7b110d62205a.png)
+
+
 The Endpoints used are:
+
 ![image](https://user-images.githubusercontent.com/47078856/169638320-c470b8d6-9083-4e0d-8826-af04ddfd8ef0.png)
 
 VS CODE is the source code editor used
